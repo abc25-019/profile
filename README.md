@@ -6,3 +6,9 @@ It specifies - my personal details
 -Work experiance
 -Hobbies
 -And everything else about moi
+The website was developed with these technologies:
+HTML5
+CSS3
+JavaScript
+GIMP
+Jekyll themes
