@@ -3,6 +3,7 @@ div#divmaincontainer{
   width:80%;
   margin:auto;
   border:1px solid black;
+   border-radius:15px 15px 0 0;
 }
 
 /*styling the header of the site*/
@@ -12,11 +13,22 @@ header#siteheader{
   background-image:linear-gradient(dark-green,cyan,teal);
   border:1px solid lime;
   border-radius:15px 15px 0 0;
+  padding:20px;
 }
 
 /*styling site title*/
 h1#sitetitle{
   font-family:Arial;
   font-size:32px;
-  color:orange;
+  color:black;
+  text-align:center;
+}
+
+/*styling site motto*/
+span#sitemotto{
+  font-size:18px;
+  font-family:tahoma;
+  font-style:italic;
+  color:aqua;
+  text-align:center;
 }
